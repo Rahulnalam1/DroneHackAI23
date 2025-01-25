@@ -24,3 +24,6 @@ SolidWorks file:
   etc. 
 
 Update: The team placed 2nd for the general hackathon!!
+
+![Screenshot 2025-01-24 at 11 01 41 PM](https://github.com/user-attachments/assets/40a50db4-6b76-407b-8993-40246d9d716c)
+
